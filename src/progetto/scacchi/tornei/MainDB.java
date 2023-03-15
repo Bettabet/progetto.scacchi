@@ -242,6 +242,7 @@ public class MainDB {
 			players.add(player);
 			
 		}
+		System.out.println("ciao");
 		
 		return players;
 		
