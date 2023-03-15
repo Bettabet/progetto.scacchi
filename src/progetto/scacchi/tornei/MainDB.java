@@ -244,6 +244,8 @@ public class MainDB {
 		}
 		System.out.println("ciao");
 		
+		System.out.println("ciao");
+		
 		return players;
 		
 	}
