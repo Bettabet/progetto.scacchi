@@ -1,10 +1,13 @@
-package progetto.scacchi.tornei;
+package progetto.scacchi.main;
 
 import progetto.scacchi.arbitri.ArbiterCategory;
 import progetto.scacchi.arbitri.ChessArbiter;
 import progetto.scacchi.giocatori.ChessPlayer;
+import progetto.scacchi.tornei.BlitzChessTournament;
+import progetto.scacchi.tornei.SingleChessTournament;
+import progetto.scacchi.tornei.StandardChessTournament;
 
-public class Main {
+public class MainPlayers {
 
 	public static void main(String[] args) {
 		
