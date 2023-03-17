@@ -17,7 +17,7 @@ import java.util.List;
 
 import progetto.scacchi.giocatori.ChessPlayer;
 
-public class MainDB {
+public class PopolamentoGiocatori {
 	
     private static final String URL= "jdbc:mysql://localhost:3306/scacchi";
 	
